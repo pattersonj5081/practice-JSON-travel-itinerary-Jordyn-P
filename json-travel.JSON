@@ -2,9 +2,11 @@
   "Trip Name": "Europe Vacation",
     "Traveler":{
         "name": "Elle Jordyn Patterson",
+        "contact":{
         "email": "imgoingtoparis@gmail.com",
         "phone": "314-555-5555"
-                },
+                }
+              },
     "Destinations":
     [{
       "location":"Amsterdam",
