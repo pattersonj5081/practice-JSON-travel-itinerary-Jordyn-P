@@ -1,0 +1,42 @@
+{
+  "Trip Name": "Europe Vacation",
+    "Traveler":{
+        "name": "Elle Jordyn Patterson",
+        "email": "imgoingtoparis@gmail.com",
+        "phone": "314-555-5555"
+                },
+    "Destinations":
+    [{
+      "location":"Amsterdam",
+      "arrivalDate":"2023-05-23",
+      "departureDate":"2023-05-25",
+     
+      "activities":
+      [{"title":"Bike-Tour",
+         "time":"May 24th at 10:00 AM"},
+
+      {"title":"Anne Frank House",
+        "time":"May 25th at 9:00 AM"},
+
+      {"title":"Vincent Van Gough Museum",
+       "time": "May 25th at 12:00 PM"}]
+
+    },
+     
+    {
+        "location":"Paris",
+       "arrivalDate":"2023-05-23",
+       "departureDate":"2023-06-14",
+
+       "activities":
+       [{"title":"Bike-Tour",
+       "time":"May 31st at 10:00 AM"},
+
+        {"title":"The Louvre",
+         "time":"June 3rd at 12:00 PM"},
+
+        {"title":"Sainte-Chappelle",
+          "time": "June 11th at 12:00 PM"}]
+    }]
+
+}
